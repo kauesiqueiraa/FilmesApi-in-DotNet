@@ -1,0 +1,6 @@
+@FimesApi_HostAddress = http://localhost:5227
+
+GET {{FimesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
